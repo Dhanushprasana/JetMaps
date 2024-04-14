@@ -1,6 +1,7 @@
 # JetMaps
 
-![github big](https://github.com/dapoxjamfist/JetMaps/assets/157033308/71e4fea0-ee9f-4c19-a8bf-fe732240edc8)
+![github big](https://github.com/Dhanushprasana/JetMaps/assets/107683252/d53dbf19-ae52-4e78-a048-fc151d2aeabd)
+
 
 
 JetMaps: A mobile app integrating real-time traffic data and predictive analytics.
