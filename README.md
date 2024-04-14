@@ -36,6 +36,8 @@ JetMaps empowers city administrators with comprehensive tools for effective traf
 <img width="960" alt="burg" src="https://github.com/Dhanushprasana/JetMaps/assets/107683252/b746b023-6608-4a65-a5cf-1732ccf306fc">
 
 
+*control room*
+
 The control room serves as the nerve center of our traffic management system, where drone and camera footage is monitored in real-time. Leveraging machine learning algorithms, our system automatically identifies the root causes of congestion using image analysis techniques based on the YOLO model. This seamless integration of technology ensures rapid detection and mitigation of traffic disruptions, minimizing delays and improving overall traffic efficiency.
 
 *Assist login:*
@@ -49,7 +51,7 @@ With JetMaps, traffic management transcends traditional boundaries, leveraging c
 Steps to run the project
 
 Clone the repository
-Load the to your flutter project 
+Load the flutter project 
 install all dependencies
 
 Add an emulator 
