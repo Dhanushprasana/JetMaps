@@ -18,6 +18,9 @@ Utilizes footages of dashboard cam , GPS data , drone images for dynamic routing
 
 ![Screenshot 2024-04-14 173942](https://github.com/Dhanushprasana/JetMaps/assets/107683252/f631b790-d143-4963-962a-222650f18b3e)
 
+![image](https://github.com/Dhanushprasana/JetMaps/assets/107683252/0c18bfc3-f057-48c4-a61e-42ea2f4c2f06)
+
+
 
 
 **Streamlined Traffic Management with JetMaps**
