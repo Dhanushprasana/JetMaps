@@ -16,7 +16,8 @@ These models helps to predict the traffic flow in a area and helps in identifyin
 
 Utilizes footages of dashboard cam , GPS data , drone images for dynamic routing, providing a user-friendly navigation system with optimized routes in real-time.
 
-![image](https://github.com/dapoxjamfist/JetMaps/assets/157033308/e807a9cd-c374-44e8-8cba-be8b987912dd)
+![Screenshot 2024-04-14 173942](https://github.com/Dhanushprasana/JetMaps/assets/107683252/f631b790-d143-4963-962a-222650f18b3e)
+
 
 
 **Streamlined Traffic Management with JetMaps**
@@ -32,7 +33,8 @@ JetMaps revolutionizes urban navigation for common users. Our intuitive interfac
 
 JetMaps empowers city administrators with comprehensive tools for effective traffic management. Our admin dashboard offers a cutting-edge 3D simulation of the entire city, providing a holistic view of traffic dynamics. With two distinct dashboards, administrators can monitor live traffic conditions in real-time and track reported issues that require resolution. Additionally, our predictive dashboard utilizes advanced traffic flow models like LWR and CTM to forecast potential congestion hotspots, enabling proactive intervention to optimize traffic flow.
 
-<img width="960" alt="burg" src="https://github.com/dapoxjamfist/JetMaps/assets/157033308/71d7bf70-595e-4f02-b2d2-9b9d21f034b0">
+<img width="960" alt="burg" src="https://github.com/Dhanushprasana/JetMaps/assets/107683252/b746b023-6608-4a65-a5cf-1732ccf306fc">
+
 
 The control room serves as the nerve center of our traffic management system, where drone and camera footage is monitored in real-time. Leveraging machine learning algorithms, our system automatically identifies the root causes of congestion using image analysis techniques based on the YOLO model. This seamless integration of technology ensures rapid detection and mitigation of traffic disruptions, minimizing delays and improving overall traffic efficiency.
 
