@@ -2,6 +2,7 @@
 
 ![github big](https://github.com/Dhanushprasana/JetMaps/assets/107683252/d53dbf19-ae52-4e78-a048-fc151d2aeabd)
 
+![Screenshot 2024-04-14 173942](https://github.com/Dhanushprasana/JetMaps/assets/107683252/f631b790-d143-4963-962a-222650f18b3e)
 
 
 JetMaps: A mobile app integrating real-time traffic data and predictive analytics.
@@ -16,7 +17,7 @@ These models helps to predict the traffic flow in a area and helps in identifyin
 
 Utilizes footages of dashboard cam , GPS data , drone images for dynamic routing, providing a user-friendly navigation system with optimized routes in real-time.
 
-![Screenshot 2024-04-14 173942](https://github.com/Dhanushprasana/JetMaps/assets/107683252/f631b790-d143-4963-962a-222650f18b3e)
+
 
 ![image](https://github.com/Dhanushprasana/JetMaps/assets/107683252/0c18bfc3-f057-48c4-a61e-42ea2f4c2f06)
 
