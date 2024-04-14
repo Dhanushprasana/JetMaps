@@ -26,23 +26,23 @@ It enables 3 logins
 
 *Common User login:*
 
-JetMaps revolutionizes urban navigation for common users. Our intuitive interface ensures hassle-free navigation to user destinations. Users can effortlessly report issues encountered during their journey, such as fallen trees or roadblocks, by uploading images directly through the app. This feature ensures that obstacles are swiftly addressed, maintaining smooth traffic flow throughout the city.
+- Revolutionizes urban navigation with an intuitive interface.
+- Allows users to report obstacles during their journey, facilitating swift resolution and smooth traffic flow.
 
 
 *Admin/Control Room login:*
 
-JetMaps empowers city administrators with comprehensive tools for effective traffic management. Our admin dashboard offers a cutting-edge 3D simulation of the entire city, providing a holistic view of traffic dynamics. With two distinct dashboards, administrators can monitor live traffic conditions in real-time and track reported issues that require resolution. Additionally, our predictive dashboard utilizes advanced traffic flow models like LWR and CTM to forecast potential congestion hotspots, enabling proactive intervention to optimize traffic flow.
+- Empowers city administrators with a comprehensive 3D simulation dashboard.
+- Provides real-time monitoring of traffic conditions and reported issues.
+- Utilizes predictive analytics to forecast congestion hotspots for proactive intervention.
+
 
 <img width="960" alt="burg" src="https://github.com/Dhanushprasana/JetMaps/assets/107683252/b746b023-6608-4a65-a5cf-1732ccf306fc">
 
-
-*control room*
-
-The control room serves as the nerve center of our traffic management system, where drone and camera footage is monitored in real-time. Leveraging machine learning algorithms, our system automatically identifies the root causes of congestion using image analysis techniques based on the YOLO model. This seamless integration of technology ensures rapid detection and mitigation of traffic disruptions, minimizing delays and improving overall traffic efficiency.
-
 *Assist login:*
 
-JetMaps extends its commitment to efficient traffic management through the Assist dashboard. Road assistants act as the frontline responders to reported issues, swiftly addressing concerns to facilitate uninterrupted navigation. By broadcasting reported issues to the nearest department, our system ensures prompt resolution, enhancing the overall user experience and maintaining optimal traffic flow across the city.
+- Facilitates swift resolution of reported issues through road assistants.
+- Broadcasts reported issues to the nearest department for prompt resolution and improved user experience.
 
 With JetMaps, traffic management transcends traditional boundaries, leveraging cutting-edge technology to create a seamlessly interconnected ecosystem that prioritizes efficiency, safety, and convenience for all stakeholders.
 
