@@ -5,17 +5,11 @@
 ![Screenshot 2024-04-14 173942](https://github.com/Dhanushprasana/JetMaps/assets/107683252/f631b790-d143-4963-962a-222650f18b3e)
 
 
-JetMaps: A mobile app integrating real-time traffic data and predictive analytics.
+JetMaps is a service that provides a user app integrating real-time traffic data and predictive analytics for hassle free navigation .
 
-On the other end it provides a Simulated 3D Admin Dashboard that allows administrators to monitor traffic hotspots and congestion in the city by sitting in  a room.
+On the other end it provides a Simulated 3D Admin Dashboard and a ML control room that allows administrators to monitor traffic hotspots and congestion in the city by sitting in  a room by utilizing footages of dashboard cam , GPS data , drone images
 
-It uses Unity Engine and MAPPLS for detailed geographical information and simulation of real world traffic in a 3D perspective.
 
-Advanced traffic models like LWR (Lighthill-Whitham-Richards traffic flow model) and CTM (Cell Transmission Model) incorporates with YOLO ensuring hassle-free navigation.
-
-These models helps to predict the traffic flow in a area and helps in identifying congestions
-
-Utilizes footages of dashboard cam , GPS data , drone images for dynamic routing, providing a user-friendly navigation system with optimized routes in real-time.
 
 
 
@@ -26,42 +20,37 @@ Utilizes footages of dashboard cam , GPS data , drone images for dynamic routing
 
 **Streamlined Traffic Management with JetMaps**
 
-It enables 3 logins
+JetMaps includes an admin dashboard for live and forecast traffic monitoring, a ML control room to analyze congestion causes via drone/CCTV/dashcam footage, a troubleshooter app to address treefalls, accidents, roadblocks, and floods, and a user maps app for hassle-free navigation.
 
-*Common User login:*
+*User Navigation App:*
+- Provides up-to-the-minute traffic information.
+-Utilizes advanced algorithms LWR & CTM to forecast traffic conditions, helping users avoid congestion and plan their routes efficiently.
 
-- Revolutionizes urban navigation with an intuitive interface.
-- Allows users to report obstacles during their journey, facilitating swift resolution and smooth traffic flow.
 
-
-*Admin/Control Room login:*
-
-- Empowers city administrators with a comprehensive 3D simulation dashboard.
-- Provides real-time monitoring of traffic conditions and reported issues.
-- Utilizes predictive analytics to forecast congestion hotspots for proactive intervention.
+*Admin Dashboard:*
+- Offers a dynamic 3D visualization of the city's traffic.
+- Enables administrators to monitor current traffic conditions and predict future congestion using sophisticated traffic models.
 
 
 <img width="960" alt="burg" src="https://github.com/Dhanushprasana/JetMaps/assets/107683252/b746b023-6608-4a65-a5cf-1732ccf306fc">
 
-*Assist login:*
-
-- Facilitates swift resolution of reported issues through road assistants.
-- Broadcasts reported issues to the nearest department for prompt resolution and improved user experience.
-
-With JetMaps, traffic management transcends traditional boundaries, leveraging cutting-edge technology to create a seamlessly interconnected ecosystem that prioritizes efficiency, safety, and convenience for all stakeholders.
+*ML Control Room:*
+- Analyzes traffic patterns to identify and monitor congestion hotspots.
+- Utilizes various data sources, including dashboard cameras, GPS data, and drone images, to provide comprehensive traffic surveillance.
 
 
+*Troubleshooter App:*
+Quickly addresses and resolves incidents such as treefalls, accidents, roadblocks, and floods to minimize traffic disruption.
 
-Steps to run the project
+All incorporates to provide a hassle free navigation
 
-Clone the repository
-Load the flutter project 
-install all dependencies
 
-Add an emulator 
-or 
-use chrome page
+*Steps to run the project*
 
-Run the entire project
+- clone the repository 
+- extract the file
+- run the index.html
+- explore the page to know about its features
+
 
  
