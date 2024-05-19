@@ -31,13 +31,19 @@ JetMaps includes an admin dashboard for live and forecast traffic monitoring, a 
 
 <img width="960" alt="burg" src="https://github.com/Dhanushprasana/JetMaps/assets/107683252/b746b023-6608-4a65-a5cf-1732ccf306fc">
 
+
 **ML Control Room:**
 - Analyzes traffic patterns to identify and monitor congestion hotspots.
 - Utilizes various data sources, including dashboard cameras, GPS data, and drone images, to provide comprehensive traffic surveillance.
 
 
+
+![image](https://github.com/Dhanushprasana/JetMaps/assets/107683252/7b2e3f72-03c3-4a31-88d4-984e985405c1)
+
+
+
 **Troubleshooter App:**
-Quickly addresses and resolves incidents such as treefalls, accidents, roadblocks, and floods to minimize traffic disruption.
+- Quickly addresses and resolves incidents such as treefalls, accidents, roadblocks, and floods to minimize traffic disruption.
 
 All incorporates to provide a hassle free navigation
 
